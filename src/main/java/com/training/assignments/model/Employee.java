@@ -1,4 +1,4 @@
-package com.training.assignments.service;
+package com.training.assignments.model;
 
 public class Employee {
 	

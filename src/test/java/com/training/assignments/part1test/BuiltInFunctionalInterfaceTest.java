@@ -9,8 +9,8 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.training.assignments.model.Employee;
 import com.training.assignments.service.BuiltInFunctionalInterface;
-import com.training.assignments.service.Employee;
 
 /**
  * @author swayadav
